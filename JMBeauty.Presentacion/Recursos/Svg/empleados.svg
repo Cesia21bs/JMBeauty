@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Rostro profesional -->
+  <circle cx="24" cy="18" r="8" fill="#FDE7F0" stroke="url(#gold)" stroke-width="2"/>
+  <!-- Corona estilizada del logo JM-Beauty Claros -->
+  <path d="M16 10 L19 13 L24 8 L29 13 L32 10 L30 15 L18 15 Z" fill="url(#gold)"/>
+  <!-- Torso / uniforme salón -->
+  <path d="M10 42 C10 32 16 29 24 29 C32 29 38 32 38 42 Z" fill="#D98CA6" stroke="url(#gold)" stroke-width="2"/>
+  <polygon points="24,29 21,37 27,37" fill="#FFF8E1"/>
+  <!-- Gafete / Rol -->
+  <rect x="28" y="33" width="7" height="4" rx="1" fill="#FFF8E1" stroke="url(#gold)" stroke-width="1"/>
+</svg>
+

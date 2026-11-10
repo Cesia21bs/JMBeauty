@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Moneda dorada central -->
+  <circle cx="20" cy="26" r="14" fill="#FFF8E1" stroke="url(#gold)" stroke-width="2.5"/>
+  <circle cx="20" cy="26" r="11" fill="#FDE7F0"/>
+  <text x="20" y="32" font-family="Arial" font-size="14" font-weight="bold" fill="#D4AF37" text-anchor="middle">%</text>
+  <!-- Gráfica ascendente rosa pastel -->
+  <polyline points="22,20 30,12 36,16 44,6" fill="none" stroke="#D98CA6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="44,6 38,6 44,12" fill="url(#gold)"/>
+</svg>
+

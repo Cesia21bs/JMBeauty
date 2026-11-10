@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Caja de cartón de insumos / compras -->
+  <polygon points="24,6 40,14 24,22 8,14" fill="#FFF8E1" stroke="url(#gold)" stroke-width="2"/>
+  <polygon points="8,14 24,22 24,40 8,32" fill="#F4C2C2" stroke="url(#gold)" stroke-width="2"/>
+  <polygon points="40,14 24,22 24,40 40,32" fill="#D98CA6" stroke="url(#gold)" stroke-width="2"/>
+  <!-- Cinta adhesiva dorada -->
+  <line x1="24" y1="6" x2="24" y2="22" stroke="url(#gold)" stroke-width="3"/>
+  <line x1="16" y1="18" x2="16" y2="36" stroke="#FFF8E1" stroke-width="2" stroke-dasharray="2,2"/>
+</svg>
+

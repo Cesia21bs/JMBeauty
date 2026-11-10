@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Caja registradora / POS -->
+  <rect x="8" y="20" width="32" height="22" rx="4" fill="#FFF8E1" stroke="url(#gold)" stroke-width="2.5"/>
+  <!-- Pantalla digital -->
+  <rect x="14" y="10" width="20" height="10" rx="2" fill="#D98CA6" stroke="url(#gold)" stroke-width="1.5"/>
+  <text x="24" y="17" font-family="Arial" font-size="7" font-weight="bold" fill="#FFF8E1" text-anchor="middle">$ 0.00</text>
+  <!-- Teclado numérico -->
+  <rect x="12" y="24" width="14" height="12" rx="2" fill="#FDE7F0"/>
+  <circle cx="15" cy="27" r="1" fill="#D4AF37"/>
+  <circle cx="19" cy="27" r="1" fill="#D4AF37"/>
+  <circle cx="23" cy="27" r="1" fill="#D4AF37"/>
+  <circle cx="15" cy="30" r="1" fill="#D4AF37"/>
+  <circle cx="19" cy="30" r="1" fill="#D4AF37"/>
+  <circle cx="23" cy="30" r="1" fill="#D4AF37"/>
+  <!-- Ticket de venta -->
+  <path d="M30 24 L36 24 L36 34 L33 32 L30 34 Z" fill="#F4C2C2" stroke="url(#gold)" stroke-width="1"/>
+  <!-- Ranura de efectivo -->
+  <rect x="12" y="38" width="24" height="2" rx="1" fill="url(#gold)"/>
+</svg>
+

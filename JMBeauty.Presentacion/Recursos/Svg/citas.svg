@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Base de Calendario -->
+  <rect x="4" y="8" width="40" height="36" rx="6" fill="#FFF8E1" stroke="url(#goldGrad)" stroke-width="2.5"/>
+  <path d="M4 14 Q4 8 10 8 L38 8 Q44 8 44 14 L44 18 L4 18 Z" fill="#D98CA6"/>
+  <!-- Anillos dorados -->
+  <rect x="12" y="4" width="4" height="8" rx="2" fill="url(#goldGrad)"/>
+  <rect x="32" y="4" width="4" height="8" rx="2" fill="url(#goldGrad)"/>
+  <!-- Reloj de Cita -->
+  <circle cx="28" cy="30" r="11" fill="#F4C2C2" stroke="url(#goldGrad)" stroke-width="2"/>
+  <circle cx="28" cy="30" r="8.5" fill="#FFF8E1"/>
+  <polyline points="28,24 28,30 33,30" fill="none" stroke="#D4AF37" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Días marcados -->
+  <rect x="10" y="24" width="6" height="4" rx="1.5" fill="#D98CA6"/>
+  <rect x="10" y="32" width="6" height="4" rx="1.5" fill="#FDE7F0"/>
+</svg>
+

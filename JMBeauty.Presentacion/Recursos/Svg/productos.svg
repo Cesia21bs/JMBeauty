@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+  </defs>
+  <!-- Frasco de loción cosmética -->
+  <rect x="8" y="18" width="16" height="24" rx="4" fill="#FFF8E1" stroke="url(#gold)" stroke-width="2"/>
+  <rect x="12" y="12" width="8" height="6" fill="#F4C2C2" stroke="url(#gold)" stroke-width="1.5"/>
+  <rect x="14" y="8" width="10" height="4" rx="1.5" fill="url(#gold)"/>
+  <rect x="10" y="24" width="12" height="10" rx="2" fill="#FDE7F0"/>
+  <line x1="12" y1="28" x2="20" y2="28" stroke="#D98CA6" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Labial / Tratamiento -->
+  <rect x="28" y="22" width="12" height="20" rx="3" fill="#D98CA6" stroke="url(#gold)" stroke-width="2"/>
+  <path d="M30 22 L30 14 Q34 8 38 12 L38 22 Z" fill="#F4C2C2" stroke="url(#gold)" stroke-width="1.5"/>
+  <rect x="26" y="26" width="16" height="4" fill="url(#gold)"/>
+</svg>
+
